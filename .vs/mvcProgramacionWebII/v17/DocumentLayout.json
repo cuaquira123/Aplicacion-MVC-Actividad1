@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|d:\\upds materias\\programacion web ii\\mvcprogramacionwebii\\views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|d:\\upds materias\\programacion web ii\\mvcprogramacionwebii\\views\\productoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:views\\productoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|d:\\upds materias\\programacion web ii\\mvcprogramacionwebii\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|d:\\upds materias\\programacion web ii\\mvcprogramacionwebii\\views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|d:\\upds materias\\programacion web ii\\mvcprogramacionwebii\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|d:\\upds materias\\programacion web ii\\mvcprogramacionwebii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Migrations\\20241008004528_PrimerMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE35FBBE-872B-42F2-9D7D-6EB98262E810}|mvcProgramacionWebII.csproj|solutionrelative:Migrations\\20241008004528_PrimerMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Edit.cshtml",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:37:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Details.cshtml",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:36:23.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Delete.cshtml",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:33:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Index.cshtml",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T18:17:19.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bootstrap5.min.css",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css",
+              "ViewState": "AQIAALsyAAAAAAAAAAAAwDk1AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-12T18:09:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T01:28:29.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoesController.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:50:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241008004528_PrimerMigracion.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Migrations\\20241008004528_PrimerMigracion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008004528_PrimerMigracion.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Migrations\\20241008004528_PrimerMigracion.cs",
+              "RelativeToolTip": "Migrations\\20241008004528_PrimerMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:45:28.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:29:57.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:20:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T00:08:09.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:33:08.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\mvcProgramacionWebII\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:09:09.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
